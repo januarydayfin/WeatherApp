@@ -2,4 +2,5 @@
     <string name="app_name">WeatherApp</string>
     <string name="_2nd_button">2nd button</string>
     <string name="_1st_button">1st button</string>
+    <string name="barsik_show">BARSIK, SHOW!</string>
 </resources>
